@@ -4,3 +4,10 @@
 	border-radius: 50%;
 	background: orange;
 }
+.grad {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background: radial-gradient(circle at 65% 15%,white/*#C7F021*/,red);
+
+}
